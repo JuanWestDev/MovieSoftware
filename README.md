@@ -1,6 +1,6 @@
 # MovieSoftware
 
-This was a program I had to make for a Uni project where there is two guis one thats for the client and one thats for the company which is the server gui.
+This was a program I had to make for a University project where there is two guis one thats for the client and one thats for the company which is the server gui.
 I had to use SQL as my Database and SQL coding language to set it up aswell.
 
 This program is designed for a client to login into the database and search for any movie they would like and gain its information.

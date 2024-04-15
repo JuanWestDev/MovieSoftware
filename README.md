@@ -8,7 +8,8 @@ There is an admin side aswell that if the client were to be an admin at a movie 
 
 I learned alot during this project but for me these were the key things
   - I learned how to setup a client and server connection that can handle multiple connections
-  - I learned how to setup a database that someone can access through a GUI using sqljdbc
+  - I learned how to setup a database that someone can access through a GUI using sqljdbc on java
+  - And Overall I feel like my programming and Java has definetly improved since
 
 Another important thing to note is although this was a University project I never had a lecturer so I am self taught mostly.
 
